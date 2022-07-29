@@ -11,10 +11,6 @@ export default function Index() {
   if (!data) return <div>Loading...</div>
 
   return (
-    <ul>
-      {data.map((p: Person) => (
-        <PersonComponent key={p.id} person={p} />
-      ))}
-    </ul>
+    <h1>Go to /person/hash</h1>
   )
 }

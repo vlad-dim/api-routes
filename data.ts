@@ -1,6 +1,6 @@
 export const people = [
   {
-    id: '1',
+    id: '807b2ebd-e441-49e0-878e-5d4b1a4cf92b',
     name: 'Luke Skywalker',
     height: '172',
     mass: '77',
@@ -10,7 +10,7 @@ export const people = [
     gender: 'male',
   },
   {
-    id: '2',
+    id: '9b4d19e7-0ff3-4d37-aead-33b01eba18ae',
     name: 'C-3PO',
     height: '167',
     mass: '75',
